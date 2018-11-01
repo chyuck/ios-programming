@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1B00F57E218A7CFE00F54C2B /* BrowserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B00F57D218A7CFE00F54C2B /* BrowserViewController.swift */; };
 		1B276AA12184B54C00321708 /* ConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B276AA02184B54C00321708 /* ConversionViewController.swift */; };
 		1B506AB02187C33E006FC87B /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B506AAF2187C33E006FC87B /* MapKit.framework */; };
 		1B506AB22187D12C006FC87B /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B506AB12187D12C006FC87B /* MapViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1B00F57D218A7CFE00F54C2B /* BrowserViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrowserViewController.swift; sourceTree = "<group>"; };
 		1B276AA02184B54C00321708 /* ConversionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionViewController.swift; sourceTree = "<group>"; };
 		1B506AAF2187C33E006FC87B /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		1B506AB12187D12C006FC87B /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				1BE71E2D218127EF00B72813 /* Info.plist */,
 				1B276AA02184B54C00321708 /* ConversionViewController.swift */,
 				1B506AB12187D12C006FC87B /* MapViewController.swift */,
+				1B00F57D218A7CFE00F54C2B /* BrowserViewController.swift */,
 			);
 			path = WorldTrotter;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B276AA12184B54C00321708 /* ConversionViewController.swift in Sources */,
+				1B00F57E218A7CFE00F54C2B /* BrowserViewController.swift in Sources */,
 				1B506AB22187D12C006FC87B /* MapViewController.swift in Sources */,
 				1BE71E22218127EC00B72813 /* AppDelegate.swift in Sources */,
 			);
