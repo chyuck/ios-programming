@@ -8,3 +8,4 @@ iOS Programming. The Big Nerd Ranch Guide. 6th Edition
 * WorldTrotter6 (Chapter 6)
 * WorldTrotter7 (Chapter 7)
 * Quiz8 (Chapter 8)
+* Buggy (Chapter 9)
