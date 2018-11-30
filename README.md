@@ -19,3 +19,4 @@ iOS Programming. The Big Nerd Ranch Guide. 6th Edition
 * Homepwner17 (Chapter 17)
 * TouchTracker (Chapter 18)
 * TouchTracker19 (Chapter 19)
+* Photorama (Chapter 20)
