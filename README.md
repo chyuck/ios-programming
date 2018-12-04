@@ -21,3 +21,4 @@ iOS Programming. The Big Nerd Ranch Guide. 6th Edition
 * TouchTracker19 (Chapter 19)
 * Photorama (Chapter 20)
 * Photorama21 (Chapter 21)
+* Photorama22 (Chapter 22)
