@@ -23,3 +23,4 @@ iOS Programming. The Big Nerd Ranch Guide. 6th Edition
 * Photorama21 (Chapter 21)
 * Photorama22 (Chapter 22)
 * Photorama23 (Chapter 23)
+* Photorama24 (Chapter 24)
